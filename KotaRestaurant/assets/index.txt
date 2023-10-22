@@ -136,7 +136,10 @@ Special Dish
 
 Lobster Tortellini
 
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
+Lorem Ipsum is simply dummy text of the printingand 
+typesetting industry lorem Ipsum has been the industrys
+standard dummy text ever since the when an unknown printer
+took a galley of type.
 
 $40.00
 $20.00
@@ -204,7 +207,8 @@ View All Menu
 #---------- TESTIMONIALS ----------#
 
 ”
-I wanted to thank you for inviting me down for that amazing dinner the other night. The food was extraordinary.
+I wanted to thank you for inviting me down for that amazing
+dinner the other night. The food was extraordinary.
 
 alt = Sam Jhonson
 Sam Jhonson
