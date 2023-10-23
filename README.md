@@ -1,3 +1,3 @@
 # Kota_Restaurant
 
-Kota Restuarant Website, it's currently incomplete. feature section completed. 
+Almost completed, just a few touch ups, media queries where completed today.
