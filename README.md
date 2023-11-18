@@ -11,7 +11,7 @@ The Outeniqua Grill Restaurant website is a platform developed using HTML, CSS, 
 
 ## Setup
 
-1. **Clone Repository**: `git clone [repository_url]`
+1. **Clone Repository**: `git clone [(https://github.com/XolaniLan/Outeniqua-Grilli-Restaurant.git)]`
 2. **Navigate to Directory**: `cd outeniqua-grill-restaurant`
 3. **Open index.html in a Browser**
 
